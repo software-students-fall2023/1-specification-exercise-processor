@@ -19,8 +19,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 1. As a user who wants to tackle sleep-related disorders, I want an application to monitor my sleep patterns and offer regular progress insights.
    - Estimation of Effort: **H**
    - Acceptance Criteria:
-       - [a]. Ability to track sleep either manually by pressing a sleep button or through a sleep-tracking device.
-       - [b]. Provide insights on sleep quality, sleep timeline, progress, etc.
+       - a. Ability to track sleep either manually by pressing a sleep button or through a sleep-tracking device.
+       - b. Provide insights on sleep quality, sleep timeline, progress, etc.
 2. As a customer, I seek an app that enables me to journal and record my thoughts when I experience sleep difficulties.
    - Estimation of Effort: **M**
    - Acceptance Criteria:
