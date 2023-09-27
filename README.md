@@ -16,8 +16,8 @@ See instructions. Delete this line and place your Product Vision Statement here.
 
 ## User Requirements
 
-See instructions. Delete this line and place a list of your User Stories here.
-
+1. As a user who wants to tackle sleep-related disorders, I want an application to keep track of my sleep and provide insights on my progress regularly.
+2. 
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
