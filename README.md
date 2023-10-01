@@ -61,7 +61,10 @@ _Sleepy_ is helpful for everyone.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+1. As an athlete, I want weekly and monthly sleep quality reports so that I can ensure my sleeping habits are not negatively affecting my training.
+![Use case diagram for an athelete](https://drive.google.com/file/d/1ix9Mp3F4s6KuB4EEeWj74DW7YkuVd32L/view?usp=sharing)
+
+2. As an overthinker, I want a reflective journaling feature so that I can jot down my thoughts.
 
 ## Wireframe Diagrams
 
