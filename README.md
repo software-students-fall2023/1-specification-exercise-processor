@@ -1,6 +1,4 @@
-# Specification Phase Exercise
-
-A little exercise to get started with the specification phase of the software development lifecycle. See the [instructions](instructions.md) for more detail.
+# Sleepy
 
 ## Team members
 
@@ -35,7 +33,7 @@ Anil is a working dad in his late 30s with a newborn. Find the full interview [h
 
 | Goals                                                             | Frustrations                                                                                     |
 |-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
-| Fall asleep quicker,reducing the time spent lying awake in bed.   | The stress of work and a new-born disrupt his sleep.                                             |
+| Fall asleep quicker, reducing the time spent lying awake in bed.   | The stress of work and a new-born disrupt his sleep.                                             |
 | An effective way to distract his mind from the day's work stress. | Struggles with winding down before sleep due to his mind being active with thoughts.             |
 | An understanding of his sleep patterns to improve sleep quality.  | The features of his current health gadget (Apple Watch) are too overwhelming to use effectively. |
 | Practical advice on what can be done to enhance these patterns.   | Lack of an effective technique to document his thoughts before sleep.                            |
@@ -46,32 +44,21 @@ Anil is a working dad in his late 30s with a newborn. Find the full interview [h
 
 ## User Requirements
 
-1. As a user who wants to tackle sleep-related disorders, I want an application to monitor my sleep patterns and offer regular progress insights.
-   - Estimation of Effort: **H**
-   - Acceptance Criteria:
-       - Ability to track sleep either manually by pressing a sleep button or through a sleep-tracking device.
-       - Provide insights on sleep quality, sleep timeline, progress, etc.
-2. As a customer, I seek an app that enables me to journal and record my thoughts when I experience sleep difficulties.
-   - Estimation of Effort: **M**
-   - Acceptance Criteria:
-      - The app should store journal entries effectively.
-      - It must allow users to view and update their previous journal entries.
-      - The user interface should be user-friendly and intuitive for easy journaling.
-3. As a user, my goal is to have an app that creates an optimal sleeping environment by offering features like playing white noise or calming music.
-   - Estimation of Effort: **M**
-   - Acceptance Criteria:
-      - Should play a wide variety of music as the user pleases.
-      - Ability to view recent songs.
-      - Ability to view song history and pick out favorites.
-4. As a regular user, I want a service where I can read bedtime stories to calm myself.
-   - Estimation of Effort: **M**
-   - Acceptance Criteria:
-       - Similar to the music features, it should display bedtime stories of the user's preference.
-       - Able to upload bedtime stories.
-5. As a user, I would like a service that offers a comprehensive set of healthy guidelines and valuable resources to address sleeping disorders effectively.
-   - Estimation of Effort: **L**
-   - Acceptance Criteria:
-      - Link appropriate services such as medical consultation for tackling such disorders.
+_Sleepy_ is helpful for everyone.
+
+| As                                            | I want                                                       | so that                                                                   |
+|-----------------------------------------------|--------------------------------------------------------------|---------------------------------------------------------------------------|
+| a shift worker                                | a sleep tracker that aligns with my irregular sleep patterns | I can get a better understanding of my sleep behaviour.                   |
+| a busy professional                           | bedtime reminders                                            | I can maintain a regular sleep schedule and improve my work productivity. |
+| a new mom                                     | soothing bedtime stories I could listen to with my baby      | it helps us both fall asleep.                                             |
+| an overthinker                                | a reflective journaling feature                              | I can jot down my thoughts and clear my mind before going to bed.         |
+| a frequent traveler across time zones         | to be suggested optimal sleep/wake times based on my jet lag | I can regain a normal sleep cycle.                                        |
+| a freelancer working from home                | to block out all notifications during my sleeping hours      | my rest isn't disturbed by work calls or texts.                           |
+| a senior citizen concerned about sleep health | detailed insights into my sleep patterns                     | I can discuss them with my doctor.                                        |
+| an athlete                                    | weekly and monthly sleep quality reports                     | I can ensure my sleeping habits are not negatively affecting my training. |
+| a student studying for exams                  | to be provided short power nap schemes                       | I get some rest without destroying my study schedule.                     |
+| a therapy patient                             | to listen to calming tunes                                   | I can manage my anxiety before bed.                                       |
+
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
