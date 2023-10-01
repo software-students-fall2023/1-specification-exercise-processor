@@ -63,11 +63,17 @@ _Sleepy_ is helpful for everyone.
 
 "As an overthinker, I want a reflective journaling feature so that I can jot down my thoughts and clear my mind before going to bed."
 
-![](./images/activity_diagrams/Journal.png)
+<p align="center">
+  <img src="./images/activity_diagrams/Journal.png" width="700px"/>
+</p>
+
+---
 
 "As a therapy patient, I want to listen to calming tunes, so that I can manage my anxiety before bed."
 
-![](./images/activity_diagrams/Tunes.png)
+<p align="center">
+  <img src="./images/activity_diagrams/Tunes.png" width="700px"/>
+</p>
 
 ## Wireframe Diagrams
 
