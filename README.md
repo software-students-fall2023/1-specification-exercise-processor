@@ -12,31 +12,31 @@ Interviewing **Madeleine Berry** as our stakeholder.
 
 - Are there any factors that disrupt your sleep? 
 
-Madeleine: Outside noise, temperature, high screen time, and GAD (generalized anxiety disorder) are the main factors.  
+"Outside noise, temperature, high screen time, and GAD (generalized anxiety disorder) are the main factors."  
 
 - Do you have any techniques or habits you practice to help you sleep?   
 
-M: I try to stay off my phone the hour before I go to bed, wear light clothing, or if it's noisy I will put a pillow over my head.  
+"I try to stay off my phone the hour before I go to bed, wear light clothing, or if it's noisy I will put a pillow over my head." 
 
 - If there was a mobile app designed to help people sleep better, what features would you want from it?  
 
-M: Different types of white noise, something that locks off your phone so you can't use it before bed, a sleep tracker, and an alarm. 
+"Different types of white noise, something that locks off your phone so you can't use it before bed, a sleep tracker, and an alarm."
 
 - Is there any app you use currently?
 
-M: No.
+"No."
 
 - Would you sleep benefit from a sleep tracker or a diary feature in an app?
 
-M: A sleep tracker would probably be helpful. 
+"A sleep tracker would probably be helpful."
 
 - How about a feature showing sleep statistics?
 
-M: If it tracked my sleep then yes, that would be helpful.
+"If it tracked my sleep then yes, that would be helpful."
 
 - How helpful would you find guided sleep meditations or bedtime stories?
 
-M: Guided meditation is good, bedtime stories stimulate my mind so they are not as helpful.  
+"Guided meditation is good, bedtime stories stimulate my mind so they are not as helpful." 
 
 ## Product Vision Statement
 
