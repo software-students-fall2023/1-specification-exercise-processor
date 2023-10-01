@@ -61,7 +61,13 @@ _Sleepy_ is helpful for everyone.
 
 ## Activity Diagrams
 
-See instructions. Delete this line and place images of your UML Activity diagrams here.
+"As an overthinker, I want a reflective journaling feature so that I can jot down my thoughts and clear my mind before going to bed."
+
+![](./images/activity_diagrams/Journal.png)
+
+"As a therapy patient, I want to listen to calming tunes, so that I can manage my anxiety before bed."
+
+![](./images/activity_diagrams/Tunes.png)
 
 ## Wireframe Diagrams
 
