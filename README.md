@@ -4,43 +4,45 @@ A little exercise to get started with the specification phase of the software de
 
 ## Team members
 
-Seolin Jung: https://github.com/seolinjung
+* [Aavishkar Gautam](https://github.com/aavishkar6)
+* [Avaneesh Devkota](https://github.com/avaneeshdevkota)
+* [Seolin Jung](https://github.com/seolinjung)
+* [Soyuj Jung Basnet](https://github.com/basnetsoyuj)
 
-## Stakeholder Interview
+## Ideation
 
-Interviewing **Madeleine Berry** as our stakeholder. 
+Ideation is often neglected. It is the process of coming up with a good idea.
 
-**Are there any factors that disrupt your sleep?** 
+In this exercise, you must decide upon a concept for a mobile app that solves specific needs you identify in your target end-users.
 
-MADELEINE: Outside noise, temperature, high screen time, and GAD (generalized anxiety disorder) are the main factors.
+Before you can evaluate product ideas, you must first identify your target end-user -- the specific kind(s) of person for whom you are developing this app. This can be any type of person for whom you are willing to design an app.
+## Stakeholder Interviews
 
-**Do you have any techniques or habits you practice to help you sleep?**   
+### Stakeholder A: Madeleine Berry
 
-MADELEINE: I try to stay off my phone the hour before I go to bed, wear light clothing, or if it's noisy I will put a pillow over my head. 
+Madeleine is a college student in her 20s. Find the full interview [here](./interviews/berry.md).
 
-**If there was a mobile app designed to help people sleep better, what features would you want from it?**  
+| Goals                                                                                                 | Frustrations                                                                                 |
+|-------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|
+| Desire to understand and possibly diagnose sleep-related disorders using sleep tracking and analysis. | Anxiety and restlessness before bed affecting the sleep quality.                             |
+| A need for guided meditation and white noise options.                                                 | Disruptions due to external noise and inappropriate room temperature.                        |
+| An interest in a feature to reduce screen time before bed.                                            | Difficulty in managing screen time before bed.                                               |
+| Effective alarm system to ensure timely wake-ups.                                                     | Difficulty in establishing a consistent sleep schedule due to irregular sleep-wake patterns. |
 
-MADELEINE: Different types of white noise, something that locks off your phone so you can't use it before bed, a sleep tracker, and an alarm.
+### Stakeholder B: Anil Dixit
 
-**Is there any app you use currently?**
+Anil is a working dad in his late 30s with a newborn. Find the full interview [here](./interviews/dixit.md).
 
-MADELEINE: No.
-
-**Would you sleep benefit from a sleep tracker or a diary feature in an app?**
-
-MADELEINE: A sleep tracker would probably be helpful.
-
-**How about a feature showing sleep statistics?**
-
-MADELEINE: If it tracked my sleep then yes, that would be helpful.
-
-**How helpful would you find guided sleep meditations or bedtime stories?**
-
-MADELEINE: Guided meditation is good, bedtime stories stimulate my mind so they are not as helpful.
+| Goals                                                             | Frustrations                                                                                     |
+|-------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|
+| Fall asleep quicker,reducing the time spent lying awake in bed.   | The stress of work and a new-born disrupt his sleep.                                             |
+| An effective way to distract his mind from the day's work stress. | Struggles with winding down before sleep due to his mind being active with thoughts.             |
+| An understanding of his sleep patterns to improve sleep quality.  | The features of his current health gadget (Apple Watch) are too overwhelming to use effectively. |
+| Practical advice on what can be done to enhance these patterns.   | Lack of an effective technique to document his thoughts before sleep.                            |
 
 ## Product Vision Statement
 
-*Sleepy* aims to help those with insomnia and general sleep deprivation by including calming features.  	
+***Sleepy*** aims to promote deep, restful sleep through insomnia combatting tools like **white noise**, **reflective journaling**, and **soothing bedtime audiobooks** in addition to a **sleep tracker** that will offer invaluable insights into users' sleep patterns, allowing them to understand and address their sleep-related issues efficiently.
 
 ## User Requirements
 
@@ -49,6 +51,8 @@ See instructions. Delete this line and place a list of your User Stories here.
 ## Activity Diagrams
 
 See instructions. Delete this line and place images of your UML Activity diagrams here.
+
+## Wireframe Diagrams
 
 ## Clickable Prototype
 
