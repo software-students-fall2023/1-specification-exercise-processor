@@ -9,11 +9,19 @@
 
 ## Ideation
 
-Ideation is often neglected. It is the process of coming up with a good idea.
+As a team of college students juggling the demands of academics, professional commitments, and personal lives, swe found ourselves all too familiar with the sacrifice of sleep. We recognized that this was a problem for all of us, but we wanted to make sure that poor sleep quality and non-existent sleep schedules weren't problems only for college students. Startling statistics from the _Center for Disease Control and Prevention_ reveal that approximately 1 in 3 adults in the United States consistently struggle to get adequate rest or sleep each day. This statistic was enough to convince us that this was a problem worth solving.  
 
-In this exercise, you must decide upon a concept for a mobile app that solves specific needs you identify in your target end-users.
+By conducting [interviews](./interviews/) and observing [online communities](https://www.reddit.com/r/AskReddit/comments/7nme2t/redditors_who_have_trouble_sleeping_what_do_you/), we identified a series of issues that individuals commonly faced - struggle to fall asleep, irregular sleep patterns, lack of understanding of their sleep cycle, and difficulty relaxing their minds before bedtime.  
 
-Before you can evaluate product ideas, you must first identify your target end-user -- the specific kind(s) of person for whom you are developing this app. This can be any type of person for whom you are willing to design an app.
+To address the issues identified, we brainstormed various features that could assist our target users. 
+
+* White noise and relaxing tunes to mask distractions and create a calming ambience.
+* A journaling component to help users empty their minds and process thoughts before sleep.
+* An assortment of audiobooks to help users relax and shift their focus, offering a smooth transition into sleep.
+* A sleep tracker to monitor sleep patterns providing key insights to user's sleeping habits.
+* Alarms and power-nap schemes.
+
+Combining all these features, we conceptualized an all-inclusive sleep companion app designed to promote peace of mind and quality sleep.
 ## Stakeholder Interviews
 
 ### Stakeholder A: Madeleine Berry
@@ -79,4 +87,4 @@ _Sleepy_ is helpful for everyone.
 
 ## Clickable Prototype
 
-See instructions. Delete this line and place a publicly-accessible link to your clickable prototype here.
+## Mockup
