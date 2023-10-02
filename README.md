@@ -9,7 +9,7 @@
 
 ## Ideation
 
-As a team of college students juggling the demands of academics, professional commitments, and personal lives, swe found ourselves all too familiar with the sacrifice of sleep. We recognized that this was a problem for all of us, but we wanted to make sure that poor sleep quality and non-existent sleep schedules weren't problems only for college students. Startling statistics from the _Center for Disease Control and Prevention_ reveal that approximately 1 in 3 adults in the United States consistently struggle to get adequate rest or sleep each day. This statistic was enough to convince us that this was a problem worth solving.  
+As a team of college students juggling the demands of academics, professional commitments, and personal lives, we found ourselves all too familiar with the sacrifice of sleep. We recognized that this was a problem for all of us, but we wanted to make sure that poor sleep quality and non-existent sleep schedules weren't problems only for college students. Startling statistics from the _Center for Disease Control and Prevention_ reveal that approximately 1 in 3 adults in the United States consistently struggle to get adequate rest or sleep each day. This statistic was enough to convince us that this was a problem worth solving.  
 
 By conducting [interviews](./interviews/) and observing [online communities](https://www.reddit.com/r/AskReddit/comments/7nme2t/redditors_who_have_trouble_sleeping_what_do_you/), we identified a series of issues that individuals commonly faced - struggle to fall asleep, irregular sleep patterns, lack of understanding of their sleep cycle, and difficulty relaxing their minds before bedtime.  
 
@@ -22,6 +22,7 @@ To address the issues identified, we brainstormed various features that could as
 * Alarms and power-nap schemes.
 
 Combining all these features, we conceptualized an all-inclusive sleep companion app designed to promote peace of mind and quality sleep.
+
 ## Stakeholder Interviews
 
 ### Stakeholder A: Madeleine Berry
@@ -85,6 +86,59 @@ _Sleepy_ is helpful for everyone.
 
 ## Wireframe Diagrams
 
+### Home Screen
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Home.png"/>
+  <img src="./images/wireframe_diagrams/Home-2.png"/>
+</p>
+
+### Journal Screen
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Journaling-Home.png"/>
+</p>
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Journaling-New-Entry.png"/>
+  <img src="./images/wireframe_diagrams/Journaling-Completed-Entry.png"/>
+</p>
+
+### Relaxing Tunes Screen
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Tunes-Discover.png"/>
+  <img src="./images/wireframe_diagrams/Tunes-Recents.png"/>
+</p>
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Tunes-Favorites.png"/>
+  <img src="./images/wireframe_diagrams/Tunes-Player.png"/>
+</p>
+
+#### Stories Screen
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Stories-Discover.png"/>
+  <img src="./images/wireframe_diagrams/Stories-Recents.png"/>
+</p>
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Stories-Library.png"/>
+  <img src="./images/wireframe_diagrams/Stories-Player.png"/>
+</p>
+
+#### Sleep Tracker Screen
+
+<p align="center">
+  <img src="./images/wireframe_diagrams/Tracker-1.png"/>
+  <img src="./images/wireframe_diagrams/Tracker-2.png"/>
+</p>
+
 ## Clickable Prototype
 
+Find the link [here](https://www.figma.com/proto/NKTLz6j5fHVPdWASghXcBT/Sleepy?page-id=104%3A1268&type=design&node-id=250-2929&viewport=1610%2C-453%2C0.59&t=cSuSE1dGTM8joaJG-1&scaling=scale-down&starting-point-node-id=250%3A2929&mode=design).
+
 ## Mockup
+
+Find the link [here](https://www.figma.com/file/NKTLz6j5fHVPdWASghXcBT/Sleepy?type=design&node-id=0-1&mode=design).
