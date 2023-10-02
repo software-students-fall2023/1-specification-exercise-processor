@@ -89,50 +89,50 @@ _Sleepy_ is helpful for everyone.
 ### Home Screen
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Home.png"/>
-  <img src="./images/wireframe_diagrams/Home-2.png"/>
+  <img src="./images/wireframe_diagrams/Home.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Home-2.png" width="430px"/>
 </p>
 
 ### Journal Screen
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Journaling-Home.png"/>
+  <img src="./images/wireframe_diagrams/Journaling-Home.png" width="430px"/>
 </p>
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Journaling-New-Entry.png"/>
-  <img src="./images/wireframe_diagrams/Journaling-Completed-Entry.png"/>
+  <img src="./images/wireframe_diagrams/Journaling-New-Entry.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Journaling-Completed-Entry.png" width="430px"/>
 </p>
 
 ### Relaxing Tunes Screen
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Tunes-Discover.png"/>
-  <img src="./images/wireframe_diagrams/Tunes-Recents.png"/>
+  <img src="./images/wireframe_diagrams/Tunes-Discover.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Tunes-Recents.png" width="430px"/>
 </p>
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Tunes-Favorites.png"/>
-  <img src="./images/wireframe_diagrams/Tunes-Player.png"/>
+  <img src="./images/wireframe_diagrams/Tunes-Favorites.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Tunes-Player.png" width="430px"/>
 </p>
 
 #### Stories Screen
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Stories-Discover.png"/>
-  <img src="./images/wireframe_diagrams/Stories-Recents.png"/>
+  <img src="./images/wireframe_diagrams/Stories-Discover.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Stories-Recents.png" width="430px"/>
 </p>
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Stories-Library.png"/>
-  <img src="./images/wireframe_diagrams/Stories-Player.png"/>
+  <img src="./images/wireframe_diagrams/Stories-Library.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Stories-Player.png" width="430px"/>
 </p>
 
 #### Sleep Tracker Screen
 
 <p align="center">
-  <img src="./images/wireframe_diagrams/Tracker-1.png"/>
-  <img src="./images/wireframe_diagrams/Tracker-2.png"/>
+  <img src="./images/wireframe_diagrams/Tracker-1.png" width="430px"/>
+  <img src="./images/wireframe_diagrams/Tracker-2.png" width="430px"/>
 </p>
 
 ## Clickable Prototype
@@ -141,4 +141,20 @@ Find the link [here](https://www.figma.com/proto/NKTLz6j5fHVPdWASghXcBT/Sleepy?p
 
 ## Mockup
 
-Find the link [here](https://www.figma.com/file/NKTLz6j5fHVPdWASghXcBT/Sleepy?type=design&node-id=0-1&mode=design).
+Find the link [here](https://www.figma.com/proto/NKTLz6j5fHVPdWASghXcBT/Sleepy?page-id=0%3A1&type=design&node-id=41-8172&viewport=1436%2C-821%2C1.8&t=7OV41Zt08Sj5Z0Xu-1&scaling=scale-down&starting-point-node-id=41%3A8172&mode=design).
+
+#### Mockup Images
+
+<p align="center">
+  <img src="./images/mockup/Home.png" width="430px"/>
+</p>
+
+<p align="center">
+  <img src="./images/mockup/Journaling-Home.png" width="430px"/>
+  <img src="./images/mockup/Tunes-Recents.png" width="430px"/>
+</p>
+
+<p align="center">
+  <img src="./images/mockup/Stories-Favorites.png" width="430px"/>
+  <img src="./images/mockup/Track.png" width="430px"/>
+</p>
